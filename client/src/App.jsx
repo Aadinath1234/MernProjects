@@ -14,10 +14,6 @@ import FAQ from './components/FAQ/Faq.jsx';
 import axios from 'axios';
 
 
-// axios.defaults.baseURL = 'http://localhost:8080'; 
-// axios.defaults.withCredentials = true; 
-
-
 
 
 
